@@ -12,7 +12,7 @@ Ask anything, get instant, context-rich responses — all within a clean, intera
 - Session memory to maintain context throughout the chat.
 - The ability to ask questions and receive answers powered by OpenAI Generative AI.
 - Configured to use the `dotenv` library for environment variable management.
-- Real-time conversation with live data means till "now" data [Because, we are used here LangGraph's "Tool" Feature] and also ahowing which tool are using for our question
+- Real-time conversation with live data means till "now" data [Because, we are used here LangGraph's "Tool" Feature] and also showing which tool are using for our question
 
 
 
