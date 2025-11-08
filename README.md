@@ -37,7 +37,7 @@ Ask anything, get instant, context-rich responses — all within a clean, intera
 1. Clone the Repository
 ```bash
 git clone <repository-url>
-cd smart-ats-resume-analyzer
+cd CHATBOT-USING-LANGGRAPH-WITH-TOOLS-WITH-TOOLS-USING-DEMONSTRATION
 ```
 
 2. Create Virtual Environment
